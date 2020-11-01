@@ -1,0 +1,17 @@
+"G:\IAR\arm\bin\armproc.dll" 
+
+"G:\IAR\arm\bin\armjlink2.dll" 
+
+"F:\__NXPproject\__reference\龙邱K66FX例程_20190513\25.龙邱K66 神眼  OLED显示例程 - 与非门\Release\Exe\c.out" 
+
+--plugin "G:\IAR\arm\bin\armbat.dll" 
+
+--device_macro "G:\IAR\arm\config\debugger\NXP\Kxx.dmac" 
+
+--device_macro "G:\IAR\arm\config\debugger\NXP\K6x_Trace.dmac" 
+
+--flash_loader "G:\IAR\arm\config\flashloader\NXP\FlashK65Fxxx256K.board" 
+
+
+
+
